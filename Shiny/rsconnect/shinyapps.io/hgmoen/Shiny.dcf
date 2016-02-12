@@ -1,0 +1,8 @@
+name: Shiny
+account: hgmoen
+server: shinyapps.io
+bundleId: 371153
+url: https://hgmoen.shinyapps.io/Shiny/
+when: 1455237681.12182
+asMultiple: FALSE
+asStatic: FALSE
